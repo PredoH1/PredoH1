@@ -10,6 +10,8 @@ Estou completando o Ensino Médio📚
 
 Desejo cursar Analise e Desenvolvimento de Sistemas
 
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=PredoH1&hide=html&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![card](https://github-readme-stats.vercel.app/api?username=PredoH1&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
