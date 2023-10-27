@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Pedro Henrique, better known as PredoH1<br><br>I'm studying web development with the educational institution "Vai na Web".<br><br>I'm 17 years old and I'm in high school<br><br>I'm learning HTML, CSS, JavaScript, React.js
+Welcome!! My name is Pedro Henrique, better known as PredoH1.<br><br>I'm studying web development with the educational institution "Vai na Web".<br><br>I'm 17 years old and I'm in high school<br><br>I'm learning HTML, CSS, JavaScript, React.js<br><br>I intend to study Systems Analysis and Development.
 
 
 ## 🌐 Socials:
