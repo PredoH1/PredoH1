@@ -1,5 +1,14 @@
 # 💫 About Me:
-Me chamo Pedro Henrique, sou Jovem Profissional/Estagiário na Coty, atuando no suporte ao time de Logística Reversa. Tenho experiência na análise e tratamento de dados referente a logística. Colaboro no desenvolvimento de projetos de automação e melhoria utilizando VBA, PowerApps e Power Automate, com integrações entre macros e SAP, otimizando fluxos e aumentando a produtividade da área. <br><br>Nas horas vagas atuo como desenvolvedor Front-End freelancer, aplicando conhecimentos em React.js, Next.js e Styled-Components, React Native 
+Me chamo Pedro Henrique e atuo como Assistente de Automação na Coty, contribuindo diretamente com o time de Logística em iniciativas de melhoria contínua. Trabalho no desenvolvimento e manutenção de automações que otimizam fluxos logísticos, envolvendo análise de dados, liderança de pequenas frentes de trabalho e implementação de soluções tecnológicas que aumentam a eficiência operacional.
+
+Colaboro em projetos que integram VBA, PowerApps, Power Automate, SAP, Python, ZPL, Power FX
+
+Nas horas vagas, atuo como desenvolvedor Front-End freelancer.
+
+Certificações & Competências Técnicas
+• Desenvolvimento Web – HTML, CSS, SASS, JavaScript, React.js, Styled-Components, Next.js
+• Banco de Dados – MySQL, Microsoft SQL Server, Oracle, T-SQL, PL/SQL
+• Ferramentas & Processos – Git, GitHub, SAP, Excel Intermediário
 
 
 ## 🌐 Socials:
