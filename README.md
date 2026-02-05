@@ -1,14 +1,15 @@
 # 💫 About Me:
-Me chamo Pedro Henrique e atuo como Assistente de Automação na Coty, contribuindo diretamente com o time de Logística em iniciativas de melhoria contínua. Trabalho no desenvolvimento e manutenção de automações que otimizam fluxos logísticos, envolvendo análise de dados, liderança de pequenas frentes de trabalho e implementação de soluções tecnológicas que aumentam a eficiência operacional.
+Me chamo Pedro Henrique e atuo como Assistente de Automação e BI na Coty, focado em transformar processos logísticos através de dados e tecnologia. Trabalho na criação de indicadores estratégicos em Power BI (DAX/Power Query) e no desenvolvimento de aplicativos operacionais com PowerApps (Power Fx), visando otimizar a Logística Reversa e a eficiência da área.
 
-Colaboro em projetos que integram VBA, PowerApps, Power Automate, SAP, Python, ZPL, Power FX
+Minha rotina une análise de dados, automações com Power Automate, Python e VBA, e integrações com SAP. Nas horas vagas, atuo como desenvolvedor Front-End freelancer.
 
-Nas horas vagas, atuo como desenvolvedor Front-End freelancer.
+Principais Competências:
 
-Certificações & Competências Técnicas
-• Desenvolvimento Web – HTML, CSS, SASS, JavaScript, React.js, Styled-Components, Next.js
-• Banco de Dados – MySQL, Microsoft SQL Server, Oracle, T-SQL, PL/SQL
-• Ferramentas & Processos – Git, GitHub, SAP, Excel Intermediário
+Dados: Power BI (DAX/Query), SQL e Excel Avançado.
+
+Automação: Power Platform, Python, VBA e Linguagem ZPL.
+
+Web: React.js, Next.js e ecossistema Front-End.
 
 
 ## 🌐 Socials:
