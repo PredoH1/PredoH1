@@ -3,14 +3,6 @@ Me chamo Pedro Henrique e atuo como Assistente de Automação e BI na Coty, foca
 
 Minha rotina une análise de dados, automações com Power Automate, Python e VBA, e integrações com SAP. Nas horas vagas, atuo como desenvolvedor Front-End freelancer.
 
-Principais Competências:
-
-Dados: Power BI (DAX/Query), SQL e Excel Avançado.
-
-Automação: Power Platform, Python, VBA e Linguagem ZPL.
-
-Web: React.js, Next.js e ecossistema Front-End.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedrohsouzacandido) 
